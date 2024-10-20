@@ -1,3 +1,7 @@
+<div id="header" >
+ <img src="https://github.com/mr-Vozhyk/Mini-PJ-in-Redash/blob/main/icon_economic.png" width="150"/>
+</div>
+
 # Мини-проект по экономике продукта
 ## Расчёт экономических показателей сервиса доставки продуктов
 ### Задача
