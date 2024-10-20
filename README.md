@@ -1,2 +1,0 @@
-# Mini-PJ in Redash
- 
