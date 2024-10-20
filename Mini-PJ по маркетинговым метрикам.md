@@ -1,5 +1,5 @@
 <div id="header" >
- <img src="https://github.com/mr-Vozhyk/Mini-PJ-in-Redash/blob/main/icon_economic.png" width="150"/>
+ <img src="https://github.com/mr-Vozhyk/Mini-PJ-in-Redash/blob/main/icon%20comparison.png" width="150"/>
 </div>
 
 # Мини-проект по маркетинговым метрикам
